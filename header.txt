@@ -1,3 +1,5 @@
 Some new text
+Changes from first
 changes from <main>
-New changes
+
+Text from main: New changes

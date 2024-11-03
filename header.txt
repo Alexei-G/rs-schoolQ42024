@@ -1,2 +1,3 @@
 Some new text
-changes frommain
+changes from <main>
+New changes
